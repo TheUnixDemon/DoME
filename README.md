@@ -3,7 +3,7 @@ Dieses Programm dient zur Sicherung von Metadaten von Medien, wie DVDs, CDs und 
 
 ## Wie wird es Kompiliert und ausgeführt?
 **Innerhalb des Code-Verzeichnisses**  
-```java
+```bash
 javac ./*.java  
 java main
 ```
